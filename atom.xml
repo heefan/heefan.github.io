@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-28T14:40:25.048Z</updated>
+  <updated>2016-07-28T15:36:46.856Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,10 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>page</title>
+    <link href="http://yoursite.com/2016/07/28/page/"/>
+    <id>http://yoursite.com/2016/07/28/page/</id>
+    <published>2016-07-28T15:35:51.000Z</published>
+    <updated>2016-07-28T15:36:46.856Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="This-is-the-test"><a href="#This-is-the-test" class="headerlink" title="This is the test"></a>This is the test</h1><h3 id="is-same-with-markdown"><a href="#is-same-with-markdown" class="headerlink" title="is same with markdown"></a>is same with markdown</h3><hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;This-is-the-test&quot;&gt;&lt;a href=&quot;#This-is-the-test&quot; class=&quot;headerlink&quot; title=&quot;This is the test&quot;&gt;&lt;/a&gt;This is the test&lt;/h1&gt;&lt;h3 id=&quot;is-same-w
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/07/28/hello-world/"/>
     <id>http://yoursite.com/2016/07/28/hello-world/</id>
-    <published>2016-07-28T14:40:25.048Z</published>
+    <published>2016-07-28T14:44:12.916Z</published>
     <updated>2016-07-28T14:40:25.048Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
